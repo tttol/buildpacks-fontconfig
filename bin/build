@@ -2,3 +2,4 @@
 echo -e "\n" | sudo -S su -
 apt-get update
 apt-get install -y fontconfig
+su - cnb
