@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-sudo su - -S
-
+echo -e "\n" | sudo su - -S
 apt-get update
 apt-get install -y fontconfig
