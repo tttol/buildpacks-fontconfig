@@ -2,7 +2,7 @@ api = "0.8"
 
 [buildpack]
 id = "tttol/fontconfig"
-version = "0.0.2"
+version = "0.0.4"
 
 [[stacks]]
 id = "*"
